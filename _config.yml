@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://proaholic.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: proaholic.com
+title: Proaholic的个人博客
+subtitle: 浮云本是身外物，不著方寸也风流
+author: Proaholic
 simple_search: https://www.google.com/search
 description:
 
