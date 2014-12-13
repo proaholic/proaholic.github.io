@@ -4,7 +4,7 @@
   <title><![CDATA[Proaholic的个人博客]]></title>
   <link href="proaholic.com/atom.xml" rel="self"/>
   <link href="proaholic.com/"/>
-  <updated>2014-12-13T13:41:30+08:00</updated>
+  <updated>2014-12-13T13:43:22+08:00</updated>
   <id>proaholic.com/</id>
   <author>
     <name><![CDATA[Proaholic]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second-article]]></title>
+    <link href="proaholic.com/blog/2014/12/13/second-article/"/>
+    <updated>2014-12-13T13:42:38+08:00</updated>
+    <id>proaholic.com/blog/2014/12/13/second-article</id>
+    <content type="html"><![CDATA[<p>这是第二篇博客文章啦！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello]]></title>
