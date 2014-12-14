@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Proaholic的个人博客]]></title>
+  <title><![CDATA[Proaholic]]></title>
   <link href="proaholic.com/atom.xml" rel="self"/>
   <link href="proaholic.com/"/>
-  <updated>2014-12-13T13:43:22+08:00</updated>
+  <updated>2014-12-14T12:12:15+08:00</updated>
   <id>proaholic.com/</id>
   <author>
-    <name><![CDATA[Proaholic]]></name>
+    <name><![CDATA[proaholic]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,18 @@
     <link href="proaholic.com/blog/2014/12/13/second-article/"/>
     <updated>2014-12-13T13:42:38+08:00</updated>
     <id>proaholic.com/blog/2014/12/13/second-article</id>
-    <content type="html"><![CDATA[<p>这是第二篇博客文章啦！</p>
+    <content type="html"><![CDATA[<pre><code>function getHashTable($str,$length=200)
+{
+    $crc = abs(crc32($str));
+    if( $crc &amp; 0x80000000){
+        $crc ^= 0xffffffff;
+        $crc += 1;
+    }
+    $hash = $crc%$length;
+    $hash = sprintf('%02d',$hash);
+    return $hash;
+}
+</code></pre>
 ]]></content>
   </entry>
   
