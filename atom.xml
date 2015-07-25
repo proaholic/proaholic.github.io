@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Proaholic]]></title>
+  <title><![CDATA[Proaholic 's Personal Show]]></title>
   <link href="proaholic.com/atom.xml" rel="self"/>
   <link href="proaholic.com/"/>
-  <updated>2015-07-25T14:02:55+08:00</updated>
+  <updated>2015-07-25T14:04:58+08:00</updated>
   <id>proaholic.com/</id>
   <author>
     <name><![CDATA[proaholic]]></name>
