@@ -4,7 +4,7 @@
   <title><![CDATA[Proaholic 's Personal Show]]></title>
   <link href="proaholic.com/atom.xml" rel="self"/>
   <link href="proaholic.com/"/>
-  <updated>2015-07-25T15:47:46+08:00</updated>
+  <updated>2015-07-30T00:02:42+08:00</updated>
   <id>proaholic.com/</id>
   <author>
     <name><![CDATA[proaholic]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The-tao-of-programming]]></title>
+    <link href="proaholic.com/blog/2015/07/30/the-tao-of-programming/"/>
+    <updated>2015-07-30T00:01:39+08:00</updated>
+    <id>proaholic.com/blog/2015/07/30/the-tao-of-programming</id>
+    <content type="html"><![CDATA[<p>程序不过是梦,<br/>
+生于无形无象的禅中,<br/>
+我们只是那做梦的人。</p>
+
+<p>我编程三日,<br/>
+两耳不闻人声,<br/>
+只有硬盘在歌唱。</p>
+
+<p>编译程序在运行,<br/>
+像一条湍急的河流,<br/>
+我静静地等侯。</p>
+
+<p>为何要用C?<br/>
+JAVA语言我不懂,<br/>
+所以我用C。</p>
+
+<p>编程一整夜,<br/>
+透过窗户,照到屏幕上,<br/>
+初升的太阳。</p>
+
+<p>硬件和软件,<br/>
+我们是你们的主人和奴隶,<br/>
+我们的生活是程序。</p>
+
+<p>你能听见吗，<br/>
+上程序的声音?<br/>
+答案是 NULL。</p>
+
+<p>电子邮件说,<br/>
+项目已取消,<br/>
+清理文档时,我哭了。</p>
+
+<p>计算中心空空荡荡,<br/>
+静静的只有风扇在嗡鸣。<br/>
+我走过一排排的 CPU,<br/>
+磁通量刺痛了我的皮肤。<br/>
+我打开一扇门,又冷又硬,<br/>
+看见指示灯在控制板上跳动。<br/>
+一台没有灵魂的机器,人们说,<br/>
+但它的灵魂是同事们的汗水,<br/>
+在它里面有我们多年的生命,<br/>
+失望,友谊,悲伤,欢乐,<br/>
+算法成功时的狂喜,<br/>
+和无数个徒劳无获的长夜。<br/>
+我听见了叹息和欢笑的回声,<br/>
+在这间黑洞洞的办公室里,<br/>
+终端机闪耀着光芒,就像星星一样。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[一个出轨女人与佛的对话]]></title>
