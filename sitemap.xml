@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://proaholic.github.io/posts/go-language/</loc>
+    <loc>http://proaholic.github.io/2021/11/go-language/</loc>
     <lastmod>2021-11-16T19:56:34+08:00</lastmod>
   </url><url>
     <loc>http://proaholic.github.io/posts/</loc>
@@ -11,8 +11,10 @@
     <loc>http://proaholic.github.io/</loc>
     <lastmod>2021-11-16T19:56:34+08:00</lastmod>
   </url><url>
-    <loc>http://proaholic.github.io/posts/my-first-post/</loc>
+    <loc>http://proaholic.github.io/2021/11/my-first-post/</loc>
     <lastmod>2021-11-11T17:29:16+08:00</lastmod>
+  </url><url>
+    <loc>http://proaholic.github.io/archives/</loc>
   </url><url>
     <loc>http://proaholic.github.io/categories/</loc>
   </url><url>

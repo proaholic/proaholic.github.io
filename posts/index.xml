@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Proaholic&#39;s PPP</title>
+    <title>Posts on Proaholic&#39;s Pages</title>
     <link>http://proaholic.github.io/posts/</link>
-    <description>Recent content in Posts on Proaholic&#39;s PPP</description>
+    <description>Recent content in Posts on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Tue, 16 Nov 2021 19:56:34 +0800</lastBuildDate><atom:link href="http://proaholic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Language</title>
-      <link>http://proaholic.github.io/posts/go-language/</link>
+      <link>http://proaholic.github.io/2021/11/go-language/</link>
       <pubDate>Tue, 16 Nov 2021 19:56:34 +0800</pubDate>
       
-      <guid>http://proaholic.github.io/posts/go-language/</guid>
+      <guid>http://proaholic.github.io/2021/11/go-language/</guid>
       <description>导读：这篇文章是Google首席工程师、Go语言之父Rob Pike自己整理的6月21日在旧金山给Go SF的演讲稿。Rob提到：Go语言本是以C为原型，以C++为目标设计，但最终却大相径庭。值得一提的是，这3门语言都曾当选TIOBE年度语言。
 几个礼拜之前我被问到：“对于Go语言，最令你惊讶的是什么？”当时我就明确地给出了答案：“虽然我希望C++程序员能够使用Go作为替代拼，但实际上大部分Go程序员都是从Python和Ruby转过来的，其中却少有C++程序员。”
 我、Ken以及Robert都曾是C++程序员，在我们编写软件时觉得应该设计一门更适合解决这个问题的编程语言。奇怪的是，其他程序员似乎却不关心。
@@ -41,10 +41,10 @@ Robert：定义空接口语法：interface{}。所有接口都通过这个实现
     
     <item>
       <title>My First Post</title>
-      <link>http://proaholic.github.io/posts/my-first-post/</link>
+      <link>http://proaholic.github.io/2021/11/my-first-post/</link>
       <pubDate>Thu, 11 Nov 2021 17:29:16 +0800</pubDate>
       
-      <guid>http://proaholic.github.io/posts/my-first-post/</guid>
+      <guid>http://proaholic.github.io/2021/11/my-first-post/</guid>
       <description>ok ok goood!!!!</description>
     </item>
     
