@@ -6,7 +6,29 @@
     <description>Recent content in Posts on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 16 Nov 2021 19:56:34 +0800</lastBuildDate><atom:link href="http://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 08:29:09 +0800</lastBuildDate><atom:link href="http://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Php7 New Features</title>
+      <link>http://proaholic.com/2021/12/php7-new-features/</link>
+      <pubDate>Mon, 06 Dec 2021 08:29:09 +0800</pubDate>
+      
+      <guid>http://proaholic.com/2021/12/php7-new-features/</guid>
+      <description>&lt;h1 id=&#34;php7新特性&#34;&gt;PHP7新特性&lt;/h1&gt;
+&lt;h2 id=&#34;generator-syntax-新方法实现迭代&#34;&gt;Generator syntax 新方法实现迭代&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;gen_one_to_three&lt;/span&gt;() {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; ($i &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;; $i &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;; $i&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
+        &lt;span style=&#34;color:#75715e&#34;&gt;// Note that $i is preserved between yields.
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;yield&lt;/span&gt; $i;
+    }
+}
+
+$generator &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;gen_one_to_three&lt;/span&gt;();
+&lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt; ($generator &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; $value) {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;echo&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$value\n&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
     <item>
       <title>Go Language</title>
       <link>http://proaholic.com/2021/11/go-language/</link>

@@ -10,7 +10,7 @@
   "headline": "Posts",
   
   "datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "2021-11-16T19:56:34+08:00",
+  "dateModified": "2021-12-06T08:29:09+08:00",
   "author": {
     "@type": "Person",
     "name": "Proaholic",
@@ -43,18 +43,18 @@
 <meta name="generator" content="Hugo 0.86.0 with theme Tranquilpeak 0.5.3-BETA">
 <meta name="author" content="Proaholic">
 <meta name="keywords" content="">
-<meta name="description" content="Hugo tranquilpeak theme demo">
+<meta name="description" content="Proaholic&#39;s blog">
 
 
-<meta property="og:description" content="Hugo tranquilpeak theme demo">
+<meta property="og:description" content="Proaholic&#39;s blog">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Posts">
 <meta name="twitter:title" content="Posts">
 <meta property="og:url" content="http://proaholic.com/posts/">
 <meta property="twitter:url" content="http://proaholic.com/posts/">
 <meta property="og:site_name" content="Proaholic&#39;s Pages">
-<meta property="og:description" content="Hugo tranquilpeak theme demo">
-<meta name="twitter:description" content="Hugo tranquilpeak theme demo">
+<meta property="og:description" content="Proaholic&#39;s blog">
+<meta name="twitter:description" content="Proaholic&#39;s blog">
 <meta property="og:locale" content="zh-cn">
 
 
@@ -76,7 +76,7 @@
 
     <title>Posts</title>
 
-    <link rel="icon" href="http://proaholic.com/favicon.png">
+    <link rel="icon" href="http://proaholic.com/favicon.ico">
     
       <link rel="alternate" type="application/rss+xml" title="RSS" href="http://proaholic.com/posts/index.xml">
     
@@ -132,7 +132,7 @@
         </a>
         <h4 class="sidebar-profile-name">Proaholic</h4>
         
-          <h5 class="sidebar-profile-bio">Super bio with markdown support <strong>COOL</strong></h5>
+          <h5 class="sidebar-profile-bio">Some people want it to happen, some wish it would happen, others make it happen.</h5>
         
       </div>
     
@@ -202,30 +202,10 @@
     </a>
   </li>
 
-  <li class="sidebar-button">
-    
-      <a class="sidebar-button-link " href="http://proaholic.com/" title="Stack Overflow">
-    
-      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
-      
-      <span class="sidebar-button-desc">Stack Overflow</span>
-    </a>
-  </li>
-
 
     </ul>
     <ul class="sidebar-buttons">
       
-  <li class="sidebar-button">
-    
-      <a class="sidebar-button-link " href="http://proaholic.com/index.xml" title="RSS">
-    
-      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
-      
-      <span class="sidebar-button-desc">RSS</span>
-    </a>
-  </li>
-
 
     </ul>
   </div>
@@ -240,6 +220,71 @@
         <section class="postShorten-group main-content-wrap">
           
           
+          
+            
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="http://proaholic.com/2021/12/php7-new-features/" aria-label="打开帖子: Php7 New Features">
+      
+          Php7 New Features
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2021-12-06T08:29:09&#43;08:00">
+        
+  十二月 6, 2021
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        <h1 id="php7新特性">PHP7新特性</h1>
+<h2 id="generator-syntax-新方法实现迭代">Generator syntax 新方法实现迭代</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">gen_one_to_three</span>() {
+    <span style="color:#66d9ef">for</span> ($i <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; $i <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">3</span>; $i<span style="color:#f92672">++</span>) {
+        <span style="color:#75715e">// Note that $i is preserved between yields.
+</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">yield</span> $i;
+    }
+}
+
+$generator <span style="color:#f92672">=</span> <span style="color:#a6e22e">gen_one_to_three</span>();
+<span style="color:#66d9ef">foreach</span> ($generator <span style="color:#66d9ef">as</span> $value) {
+    <span style="color:#66d9ef">echo</span> <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">$value\n</span><span style="color:#e6db74">&#34;</span>;
+}
+</code></pre></div>
+      
+      <p>
+        
+          <a href="http://proaholic.com/2021/12/php7-new-features/" class="postShorten-excerpt_link link" aria-label="打开帖子: Php7 New Features">阅读全文</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
           
             
   
@@ -368,7 +413,7 @@
     
     <h4 id="about-card-name">Proaholic</h4>
     
-      <div id="about-card-bio">Super bio with markdown support <strong>COOL</strong></div>
+      <div id="about-card-bio">Some people want it to happen, some wish it would happen, others make it happen.</div>
     
     
       <div id="about-card-job">
