@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Dec 2021 08:29:09 +0800</lastBuildDate><atom:link href="http://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 08:29:09 +0800</lastBuildDate><atom:link href="http://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medoo VS Laravel Database</title>
+      <link>http://proaholic.com/2022/02/medoo-vs-laravel-database/</link>
+      <pubDate>Wed, 16 Feb 2022 08:29:09 +0800</pubDate>
+      
+      <guid>http://proaholic.com/2022/02/medoo-vs-laravel-database/</guid>
+      <description>&lt;p&gt;当两个查询工具都只执行一次的时候&lt;br&gt;
+Laravel Database 耗时：AVG :55.754899978638 ms&lt;br&gt;
+Medoo 耗时：AVG : 2.8221607208252 ms&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Php7 New Features</title>
       <link>http://proaholic.com/2021/12/php7-new-features/</link>
