@@ -6,7 +6,16 @@
     <description>Recent content on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Sep 2022 14:10:33 +0800</lastBuildDate><atom:link href="https://proaholic.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 18:01:37 +0800</lastBuildDate><atom:link href="https://proaholic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sqlx Crud</title>
+      <link>https://proaholic.com/2022/09/sqlx-crud/</link>
+      <pubDate>Tue, 13 Sep 2022 18:01:37 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/sqlx-crud/</guid>
+      <description>package main import ( &amp;#34;fmt&amp;#34; _ &amp;#34;github.com/go-sql-driver/mysql&amp;#34; &amp;#34;github.com/jmoiron/sqlx&amp;#34; &amp;#34;log&amp;#34; &amp;#34;time&amp;#34; ) var tableName = &amp;#34;blog_article&amp;#34; type Article struct { ID int64 `json:&amp;#34;id&amp;#34;` Title string `json:&amp;#34;title&amp;#34;` Desc string `json:&amp;#34;desc&amp;#34;` CoverImageUrl string `json:&amp;#34;cover_image_url&amp;#34; db:&amp;#34;cover_image_url&amp;#34;` Content string `json:&amp;#34;content&amp;#34;` CreatedOn int64 `json:&amp;#34;created_on&amp;#34; db:&amp;#34;created_on&amp;#34;` CreatedBy string `json:&amp;#34;created_by&amp;#34; db:&amp;#34;created_by&amp;#34;` ModifiedOn int64 `json:&amp;#34;modified_on&amp;#34; db:&amp;#34;modified_on&amp;#34;` ModifiedBy string `json:&amp;#34;modified_by&amp;#34; db:&amp;#34;modified_by&amp;#34;` DeletedOn int64 `json:&amp;#34;deleted_on&amp;#34; db:&amp;#34;deleted_on&amp;#34;` IsDel int64 `json:&amp;#34;is_del&amp;#34; db:&amp;#34;is_del&amp;#34;` State int64 `json:&amp;#34;state&amp;#34;` } func main() { db, err := sqlx.</description>
+    </item>
+    
     <item>
       <title>Bisearch Template</title>
       <link>https://proaholic.com/2022/09/bisearch-template/</link>
