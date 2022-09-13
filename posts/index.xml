@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Sep 2022 12:42:53 +0800</lastBuildDate><atom:link href="https://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 14:10:33 +0800</lastBuildDate><atom:link href="https://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bisearch Template</title>
+      <link>https://proaholic.com/2022/09/bisearch-template/</link>
+      <pubDate>Tue, 13 Sep 2022 14:10:33 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/bisearch-template/</guid>
+      <description>&lt;h2 id=&#34;binary-search-template&#34;&gt;binary search template&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;简单好用的二分查找算法模板，最好能够背下来。&lt;/li&gt;
+&lt;li&gt;二分查找法的思想1946年提出，但第一个没有bug的二分查找法1962年才出现。可见看似简单的二分查找算法，代码实现也不是一件容易的事情。&lt;/li&gt;
+&lt;li&gt;普通人很难发明出这类经典算法，写不出来，也不要气馁，只要能够掌握就已经可以了。&lt;/li&gt;
+&lt;li&gt;二分查找时间复杂度 O(logn) 性能非常好, 但前提条件是数据集合是要有序的。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Impplement Merge Sort in Java</title>
       <link>https://proaholic.com/2022/09/impplement-merge-sort-in-java/</link>
