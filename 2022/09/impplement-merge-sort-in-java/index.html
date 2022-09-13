@@ -7,10 +7,10 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Medoo VS Laravel Database",
+  "headline": "Impplement Merge Sort in Java",
   
-  "datePublished": "2022-02-16T08:29:09+08:00",
-  "dateModified": "2022-02-16T08:29:09+08:00",
+  "datePublished": "2022-09-13T12:42:53+08:00",
+  "dateModified": "2022-09-13T12:42:53+08:00",
   "author": {
     "@type": "Person",
     "name": "Proaholic",
@@ -20,7 +20,7 @@
   },
   "mainEntityOfPage": { 
     "@type": "WebPage",
-    "@id": "https:\/\/proaholic.com\/2022\/02\/medoo-vs-laravel-database\/" 
+    "@id": "https:\/\/proaholic.com\/2022\/09\/impplement-merge-sort-in-java\/" 
   },
   "publisher": {
     "@type": "Organization",
@@ -32,7 +32,7 @@
     }
     
   },
-  "description": "当两个查询工具都只执行一次的时候\nLaravel Database 耗时：AVG :55.754899978638 ms\nMedoo 耗时：AVG : 2.8221607208252 ms\n",
+  "description": "Merge Sort",
   "keywords": []
 }
 
@@ -43,33 +43,25 @@
 <meta name="generator" content="Hugo 0.86.0 with theme Tranquilpeak 0.5.3-BETA">
 <meta name="author" content="Proaholic">
 <meta name="keywords" content="">
-<meta name="description" content="当两个查询工具都只执行一次的时候
-Laravel Database 耗时：AVG :55.754899978638 ms
-Medoo 耗时：AVG : 2.8221607208252 ms">
+<meta name="description" content="Merge Sort">
 
 
-<meta property="og:description" content="当两个查询工具都只执行一次的时候
-Laravel Database 耗时：AVG :55.754899978638 ms
-Medoo 耗时：AVG : 2.8221607208252 ms">
+<meta property="og:description" content="Merge Sort">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Medoo VS Laravel Database">
-<meta name="twitter:title" content="Medoo VS Laravel Database">
-<meta property="og:url" content="https://proaholic.com/2022/02/medoo-vs-laravel-database/">
-<meta property="twitter:url" content="https://proaholic.com/2022/02/medoo-vs-laravel-database/">
+<meta property="og:title" content="Impplement Merge Sort in Java">
+<meta name="twitter:title" content="Impplement Merge Sort in Java">
+<meta property="og:url" content="https://proaholic.com/2022/09/impplement-merge-sort-in-java/">
+<meta property="twitter:url" content="https://proaholic.com/2022/09/impplement-merge-sort-in-java/">
 <meta property="og:site_name" content="Proaholic&#39;s Pages">
-<meta property="og:description" content="当两个查询工具都只执行一次的时候
-Laravel Database 耗时：AVG :55.754899978638 ms
-Medoo 耗时：AVG : 2.8221607208252 ms">
-<meta name="twitter:description" content="当两个查询工具都只执行一次的时候
-Laravel Database 耗时：AVG :55.754899978638 ms
-Medoo 耗时：AVG : 2.8221607208252 ms">
+<meta property="og:description" content="Merge Sort">
+<meta name="twitter:description" content="Merge Sort">
 <meta property="og:locale" content="zh-cn">
 
   
-    <meta property="article:published_time" content="2022-02-16T08:29:09">
+    <meta property="article:published_time" content="2022-09-13T12:42:53">
   
   
-    <meta property="article:modified_time" content="2022-02-16T08:29:09">
+    <meta property="article:modified_time" content="2022-09-13T12:42:53">
   
   
   
@@ -92,14 +84,14 @@ Medoo 耗时：AVG : 2.8221607208252 ms">
 
 
 
-    <title>Medoo VS Laravel Database</title>
+    <title>Impplement Merge Sort in Java</title>
 
     <link rel="icon" href="https://proaholic.com/favicon.ico">
     
 
     
 
-    <link rel="canonical" href="https://proaholic.com/2022/02/medoo-vs-laravel-database/">
+    <link rel="canonical" href="https://proaholic.com/2022/09/impplement-merge-sort-in-java/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -239,15 +231,15 @@ Medoo 耗时：AVG : 2.8221607208252 ms">
             <div class="post-header main-content-wrap text-left">
   
     <h1 class="post-title">
-      Medoo VS Laravel Database
+      Impplement Merge Sort in Java
     </h1>
   
   
   <div class="postShorten-meta post-meta">
     
-      <time datetime="2022-02-16T08:29:09&#43;08:00">
+      <time datetime="2022-09-13T12:42:53&#43;08:00">
         
-  二月 16, 2022
+  九月 13, 2022
 
       </time>
     
@@ -258,30 +250,52 @@ Medoo 耗时：AVG : 2.8221607208252 ms">
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>当两个查询工具都只执行一次的时候<br>
-Laravel Database 耗时：AVG :55.754899978638 ms<br>
-Medoo 耗时：AVG : 2.8221607208252 ms</p>
-<p>查询10次的时候<br>
-Laravel Database 耗时：AVG :3.5831689834595 ms<br>
-Medoo 耗时：AVG : 1.3298034667969 ms</p>
-<p>查询50次的时候<br>
-Laravel Database 耗时：AVG :1.0143804550171 ms<br>
-Medoo 耗时：AVG : 0.40385246276855 ms</p>
-<p>查询100次的时候<br>
-Laravel Database 耗时：AVG :0.74762344360352 ms<br>
-Medoo 耗时：AVG : 0.3513765335083 ms</p>
-<p>查询200次的时候<br>
-Laravel Database 耗时：0.6107771396637 ms<br>
-Medoo 耗时：AVG : 0.33761858940125 ms</p>
-<p>查询300次的时候<br>
-Laravel Database 耗时：0.63565651575724 ms<br>
-Medoo 耗时：AVG : 0.30286947886149 ms</p>
-<p>查询1000次的时候<br>
-Laravel Database 耗时：AVG :0.49320292472839 ms<br>
-Medoo 耗时：AVG : 0.26291346549988 ms</p>
-<p>可以看出如果只执行一次SQL，差距还是比较大，但在一次请求中查询10次的时候，这个差距就不是那么大了。到了50次的时候，就只有一倍差距，但是平均耗时都是在1ms内的。
-在一个复杂的系统中，这点性能优势便不再突出。<br>
-相反，在复杂的系统中Laravel Database提供了更多实用的方法，比如多重事务，读写分离等等。。</p>
+              <h1 id="merge-sort">Merge Sort</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">MergeSort</span> <span style="color:#f92672">{</span>
+
+    <span style="color:#66d9ef">private</span> <span style="color:#a6e22e">MergeSort</span><span style="color:#f92672">(){}</span>
+
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">static</span> <span style="color:#f92672">&lt;</span>E <span style="color:#66d9ef">extends</span> Comparable<span style="color:#f92672">&lt;</span>E<span style="color:#f92672">&gt;&gt;</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">sort</span><span style="color:#f92672">(</span>E<span style="color:#f92672">[]</span> arr<span style="color:#f92672">){</span>
+        sort<span style="color:#f92672">(</span>arr<span style="color:#f92672">,</span> 0<span style="color:#f92672">,</span> arr<span style="color:#f92672">.</span><span style="color:#a6e22e">length</span> <span style="color:#f92672">-</span> 1<span style="color:#f92672">);</span>   <span style="color:#75715e">// 传入 0， 最后个位置
+</span><span style="color:#75715e"></span>    <span style="color:#f92672">}</span>
+
+    <span style="color:#66d9ef">private</span> <span style="color:#66d9ef">static</span> <span style="color:#f92672">&lt;</span>E <span style="color:#66d9ef">extends</span> Comparable<span style="color:#f92672">&lt;</span>E<span style="color:#f92672">&gt;&gt;</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">sort</span><span style="color:#f92672">(</span>E<span style="color:#f92672">[]</span> arr<span style="color:#f92672">,</span> <span style="color:#66d9ef">int</span> l<span style="color:#f92672">,</span> <span style="color:#66d9ef">int</span> r<span style="color:#f92672">){</span>
+
+        <span style="color:#66d9ef">if</span> <span style="color:#f92672">(</span>l <span style="color:#f92672">&gt;=</span> r<span style="color:#f92672">)</span> <span style="color:#66d9ef">return</span><span style="color:#f92672">;</span> <span style="color:#75715e">// 终止条件是 l=r 表示只有一个元素
+</span><span style="color:#75715e"></span>
+        <span style="color:#66d9ef">int</span> mid <span style="color:#f92672">=</span> l <span style="color:#f92672">+</span> <span style="color:#f92672">(</span>r <span style="color:#f92672">-</span> l<span style="color:#f92672">)</span> <span style="color:#f92672">/</span> 2<span style="color:#f92672">;</span>  <span style="color:#75715e">// 获取索引的中间值
+</span><span style="color:#75715e"></span>        sort<span style="color:#f92672">(</span>arr<span style="color:#f92672">,</span> l<span style="color:#f92672">,</span> mid<span style="color:#f92672">);</span>
+        sort<span style="color:#f92672">(</span>arr<span style="color:#f92672">,</span> mid <span style="color:#f92672">+</span> 1<span style="color:#f92672">,</span> r<span style="color:#f92672">);</span>
+        merge<span style="color:#f92672">(</span>arr<span style="color:#f92672">,</span> l<span style="color:#f92672">,</span> mid<span style="color:#f92672">,</span> r<span style="color:#f92672">);</span>
+    <span style="color:#f92672">}</span>
+
+    <span style="color:#75715e">// 合并两个有序的区间 arr[l, mid] 和 arr[mid + 1, r]
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">private</span> <span style="color:#66d9ef">static</span> <span style="color:#f92672">&lt;</span>E <span style="color:#66d9ef">extends</span> Comparable<span style="color:#f92672">&lt;</span>E<span style="color:#f92672">&gt;&gt;</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">merge</span><span style="color:#f92672">(</span>E<span style="color:#f92672">[]</span> arr<span style="color:#f92672">,</span> <span style="color:#66d9ef">int</span> l<span style="color:#f92672">,</span> <span style="color:#66d9ef">int</span> mid<span style="color:#f92672">,</span> <span style="color:#66d9ef">int</span> r<span style="color:#f92672">){</span>
+
+        <span style="color:#75715e">// 这里有一个额外的拷贝动作，因此需要更多的内存空间，相对于其他排序算法
+</span><span style="color:#75715e"></span>        E<span style="color:#f92672">[]</span> temp <span style="color:#f92672">=</span> Arrays<span style="color:#f92672">.</span><span style="color:#a6e22e">copyOfRange</span><span style="color:#f92672">(</span>arr<span style="color:#f92672">,</span> l<span style="color:#f92672">,</span> r <span style="color:#f92672">+</span> 1<span style="color:#f92672">);</span>
+
+        <span style="color:#66d9ef">int</span> i <span style="color:#f92672">=</span> l<span style="color:#f92672">,</span> j <span style="color:#f92672">=</span> mid <span style="color:#f92672">+</span> 1<span style="color:#f92672">;</span>
+
+        <span style="color:#75715e">// 每轮循环为 arr[k] 赋值
+</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">for</span><span style="color:#f92672">(</span><span style="color:#66d9ef">int</span> k <span style="color:#f92672">=</span> l<span style="color:#f92672">;</span> k <span style="color:#f92672">&lt;=</span> r<span style="color:#f92672">;</span> k <span style="color:#f92672">++){</span>
+
+            <span style="color:#66d9ef">if</span><span style="color:#f92672">(</span>i <span style="color:#f92672">&gt;</span> mid<span style="color:#f92672">){</span>    <span style="color:#75715e">// 表示左侧没值了。
+</span><span style="color:#75715e"></span>                arr<span style="color:#f92672">[</span>k<span style="color:#f92672">]</span> <span style="color:#f92672">=</span> temp<span style="color:#f92672">[</span>j <span style="color:#f92672">-</span> l<span style="color:#f92672">];</span> j <span style="color:#f92672">++;</span>
+            <span style="color:#f92672">}</span>
+            <span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span><span style="color:#f92672">(</span>j <span style="color:#f92672">&gt;</span> r<span style="color:#f92672">){</span> <span style="color:#75715e">// 表示 右侧没有值了。
+</span><span style="color:#75715e"></span>                arr<span style="color:#f92672">[</span>k<span style="color:#f92672">]</span> <span style="color:#f92672">=</span> temp<span style="color:#f92672">[</span>i <span style="color:#f92672">-</span> l<span style="color:#f92672">];</span> i <span style="color:#f92672">++;</span> <span style="color:#75715e">// i++前进
+</span><span style="color:#75715e"></span>            <span style="color:#f92672">}</span>
+            <span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span><span style="color:#f92672">(</span>temp<span style="color:#f92672">[</span>i <span style="color:#f92672">-</span> l<span style="color:#f92672">].</span><span style="color:#a6e22e">compareTo</span><span style="color:#f92672">(</span>temp<span style="color:#f92672">[</span>j <span style="color:#f92672">-</span> l<span style="color:#f92672">])</span> <span style="color:#f92672">&lt;=</span> 0<span style="color:#f92672">){</span>   <span style="color:#75715e">// arr数组值已经变了，需要从temp去比较
+</span><span style="color:#75715e"></span>                arr<span style="color:#f92672">[</span>k<span style="color:#f92672">]</span> <span style="color:#f92672">=</span> temp<span style="color:#f92672">[</span>i <span style="color:#f92672">-</span> l<span style="color:#f92672">];</span> i <span style="color:#f92672">++;</span>
+            <span style="color:#f92672">}</span>
+            <span style="color:#66d9ef">else</span><span style="color:#f92672">{</span>
+                arr<span style="color:#f92672">[</span>k<span style="color:#f92672">]</span> <span style="color:#f92672">=</span> temp<span style="color:#f92672">[</span>j <span style="color:#f92672">-</span> l<span style="color:#f92672">];</span> j <span style="color:#f92672">++;</span>
+            <span style="color:#f92672">}</span>
+        <span style="color:#f92672">}</span>
+    <span style="color:#f92672">}</span>
+<span style="color:#f92672">}</span>
+</code></pre></div>
               
 
 
@@ -298,7 +312,7 @@ Medoo 耗时：AVG : 0.26291346549988 ms</p>
       
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://proaholic.com/2022/09/impplement-merge-sort-in-java/" data-tooltip="Impplement Merge Sort in Java" aria-label="下一篇: Impplement Merge Sort in Java">
+            <a class="post-action-btn btn btn--disabled">
           
               <i class="fa fa-angle-left"></i>
               <span class="hide-xs hide-sm text-small icon-ml">下一篇</span>
@@ -306,7 +320,7 @@ Medoo 耗时：AVG : 0.26291346549988 ms</p>
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://proaholic.com/2021/12/php7-new-features/" data-tooltip="Php7 New Features" aria-label="上一篇: Php7 New Features">
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://proaholic.com/2022/02/medoo-vs-laravel-database/" data-tooltip="Medoo VS Laravel Database" aria-label="上一篇: Medoo VS Laravel Database">
           
               <span class="hide-xs hide-sm text-small icon-mr">上一篇</span>
               <i class="fa fa-angle-right"></i>
@@ -349,9 +363,9 @@ Medoo 耗时：AVG : 0.26291346549988 ms</p>
     </div>
     <script type="text/javascript">
       var disqus_config = function() {
-        this.page.url = 'https:\/\/proaholic.com\/2022\/02\/medoo-vs-laravel-database\/';
+        this.page.url = 'https:\/\/proaholic.com\/2022\/09\/impplement-merge-sort-in-java\/';
         
-          this.page.identifier = '\/2022\/02\/medoo-vs-laravel-database\/'
+          this.page.identifier = '\/2022\/09\/impplement-merge-sort-in-java\/'
         
       };
       (function() {
@@ -387,7 +401,7 @@ Medoo 耗时：AVG : 0.26291346549988 ms</p>
       
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://proaholic.com/2022/09/impplement-merge-sort-in-java/" data-tooltip="Impplement Merge Sort in Java" aria-label="下一篇: Impplement Merge Sort in Java">
+            <a class="post-action-btn btn btn--disabled">
           
               <i class="fa fa-angle-left"></i>
               <span class="hide-xs hide-sm text-small icon-ml">下一篇</span>
@@ -395,7 +409,7 @@ Medoo 耗时：AVG : 0.26291346549988 ms</p>
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://proaholic.com/2021/12/php7-new-features/" data-tooltip="Php7 New Features" aria-label="上一篇: Php7 New Features">
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://proaholic.com/2022/02/medoo-vs-laravel-database/" data-tooltip="Medoo VS Laravel Database" aria-label="上一篇: Medoo VS Laravel Database">
           
               <span class="hide-xs hide-sm text-small icon-mr">上一篇</span>
               <i class="fa fa-angle-right"></i>
