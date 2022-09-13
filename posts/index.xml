@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Proaholic&#39;s Pages</title>
-    <link>http://proaholic.com/posts/</link>
+    <link>https://proaholic.com/posts/</link>
     <description>Recent content in Posts on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Feb 2022 08:29:09 +0800</lastBuildDate><atom:link href="http://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 08:29:09 +0800</lastBuildDate><atom:link href="https://proaholic.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Medoo VS Laravel Database</title>
-      <link>http://proaholic.com/2022/02/medoo-vs-laravel-database/</link>
+      <link>https://proaholic.com/2022/02/medoo-vs-laravel-database/</link>
       <pubDate>Wed, 16 Feb 2022 08:29:09 +0800</pubDate>
       
-      <guid>http://proaholic.com/2022/02/medoo-vs-laravel-database/</guid>
+      <guid>https://proaholic.com/2022/02/medoo-vs-laravel-database/</guid>
       <description>&lt;p&gt;当两个查询工具都只执行一次的时候&lt;br&gt;
 Laravel Database 耗时：AVG :55.754899978638 ms&lt;br&gt;
 Medoo 耗时：AVG : 2.8221607208252 ms&lt;/p&gt;</description>
@@ -20,10 +20,10 @@ Medoo 耗时：AVG : 2.8221607208252 ms&lt;/p&gt;</description>
     
     <item>
       <title>Php7 New Features</title>
-      <link>http://proaholic.com/2021/12/php7-new-features/</link>
+      <link>https://proaholic.com/2021/12/php7-new-features/</link>
       <pubDate>Mon, 06 Dec 2021 08:29:09 +0800</pubDate>
       
-      <guid>http://proaholic.com/2021/12/php7-new-features/</guid>
+      <guid>https://proaholic.com/2021/12/php7-new-features/</guid>
       <description>&lt;h1 id=&#34;php7新特性&#34;&gt;PHP7新特性&lt;/h1&gt;
 &lt;h2 id=&#34;generator-syntax-新方法实现迭代&#34;&gt;Generator syntax 新方法实现迭代&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;gen_one_to_three&lt;/span&gt;() {
@@ -42,20 +42,20 @@ $generator &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span sty
     
     <item>
       <title>Go Language</title>
-      <link>http://proaholic.com/2021/11/go-language/</link>
+      <link>https://proaholic.com/2021/11/go-language/</link>
       <pubDate>Tue, 16 Nov 2021 19:56:34 +0800</pubDate>
       
-      <guid>http://proaholic.com/2021/11/go-language/</guid>
+      <guid>https://proaholic.com/2021/11/go-language/</guid>
       <description>&lt;p&gt;导读：这篇文章是Google首席工程师、Go语言之父Rob Pike自己整理的6月21日在旧金山给Go SF的演讲稿。Rob提到：Go语言本是以C为原型，以C++为目标设计，但最终却大相径庭。值得一提的是，这3门语言都曾当选TIOBE年度语言。&lt;/p&gt;
 &lt;p&gt;几个礼拜之前我被问到：“对于Go语言，最令你惊讶的是什么？”当时我就明确地给出了答案：“虽然我希望C++程序员能够使用Go作为替代拼，但实际上大部分Go程序员都是从Python和Ruby转过来的，其中却少有C++程序员。”&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://proaholic.com/2021/11/my-first-post/</link>
+      <link>https://proaholic.com/2021/11/my-first-post/</link>
       <pubDate>Thu, 11 Nov 2021 17:29:16 +0800</pubDate>
       
-      <guid>http://proaholic.com/2021/11/my-first-post/</guid>
+      <guid>https://proaholic.com/2021/11/my-first-post/</guid>
       <description>ok ok goood!!!!</description>
     </item>
     
