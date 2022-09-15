@@ -6,7 +6,407 @@
     <description>Recent content on Proaholic&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Sep 2022 18:01:37 +0800</lastBuildDate><atom:link href="https://proaholic.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 15:42:44 +0800</lastBuildDate><atom:link href="https://proaholic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go_encoding_json_implementation</title>
+      <link>https://proaholic.com/2022/09/go_encoding_json_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_encoding_json_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_encoding_json_usage</title>
+      <link>https://proaholic.com/2022/09/go_encoding_json_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_encoding_json_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_flag_implementation</title>
+      <link>https://proaholic.com/2022/09/go_flag_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_flag_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_flag_usage</title>
+      <link>https://proaholic.com/2022/09/go_flag_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_flag_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_fmt_implementation</title>
+      <link>https://proaholic.com/2022/09/go_fmt_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_fmt_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_fmt_usage</title>
+      <link>https://proaholic.com/2022/09/go_fmt_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_fmt_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_path_implementation</title>
+      <link>https://proaholic.com/2022/09/go_path_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_path_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_path_usage</title>
+      <link>https://proaholic.com/2022/09/go_path_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_path_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_testing_implementation</title>
+      <link>https://proaholic.com/2022/09/go_testing_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_testing_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_testing_usage</title>
+      <link>https://proaholic.com/2022/09/go_testing_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:44 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_testing_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_bufio_implementation</title>
+      <link>https://proaholic.com/2022/09/go_bufio_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_bufio_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_bufio_usage</title>
+      <link>https://proaholic.com/2022/09/go_bufio_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_bufio_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_build_implementation</title>
+      <link>https://proaholic.com/2022/09/go_build_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_build_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_build_usage</title>
+      <link>https://proaholic.com/2022/09/go_build_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_build_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_bytes_implementation</title>
+      <link>https://proaholic.com/2022/09/go_bytes_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_bytes_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_bytes_usage</title>
+      <link>https://proaholic.com/2022/09/go_bytes_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_bytes_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_database_sql_implementation</title>
+      <link>https://proaholic.com/2022/09/go_database_sql_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_database_sql_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_database_sql_usage</title>
+      <link>https://proaholic.com/2022/09/go_database_sql_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_database_sql_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_hash_crc64_implementation</title>
+      <link>https://proaholic.com/2022/09/go_hash_crc64_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_hash_crc64_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_hash_crc64_usage</title>
+      <link>https://proaholic.com/2022/09/go_hash_crc64_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_hash_crc64_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_io_ioutil_implementation</title>
+      <link>https://proaholic.com/2022/09/go_io_ioutil_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_io_ioutil_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_io_ioutil_usage</title>
+      <link>https://proaholic.com/2022/09/go_io_ioutil_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_io_ioutil_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_math_big_implementation</title>
+      <link>https://proaholic.com/2022/09/go_math_big_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_math_big_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_math_big_usage</title>
+      <link>https://proaholic.com/2022/09/go_math_big_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_math_big_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_net_http_implementation</title>
+      <link>https://proaholic.com/2022/09/go_net_http_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:43 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_net_http_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_net_http_usage</title>
+      <link>https://proaholic.com/2022/09/go_net_http_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_net_http_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_os_implementation</title>
+      <link>https://proaholic.com/2022/09/go_os_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_os_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_os_usage</title>
+      <link>https://proaholic.com/2022/09/go_os_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_os_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_pprof_implementation</title>
+      <link>https://proaholic.com/2022/09/go_pprof_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_pprof_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_pprof_usage</title>
+      <link>https://proaholic.com/2022/09/go_pprof_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_pprof_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_strconv_implementation</title>
+      <link>https://proaholic.com/2022/09/go_strconv_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_strconv_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_strconv_usage</title>
+      <link>https://proaholic.com/2022/09/go_strconv_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_strconv_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_strings_implementation</title>
+      <link>https://proaholic.com/2022/09/go_strings_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_strings_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_strings_usage</title>
+      <link>https://proaholic.com/2022/09/go_strings_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:42:42 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_strings_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_sort_implementation</title>
+      <link>https://proaholic.com/2022/09/go_sort_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:35:07 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_sort_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_sort_usage</title>
+      <link>https://proaholic.com/2022/09/go_sort_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:35:07 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_sort_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_sync_implementation</title>
+      <link>https://proaholic.com/2022/09/go_sync_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:35:07 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_sync_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_sync_usage</title>
+      <link>https://proaholic.com/2022/09/go_sync_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:35:07 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_sync_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_time_implementation</title>
+      <link>https://proaholic.com/2022/09/go_time_implementation/</link>
+      <pubDate>Thu, 15 Sep 2022 15:35:06 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_time_implementation/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go_time_usage</title>
+      <link>https://proaholic.com/2022/09/go_time_usage/</link>
+      <pubDate>Thu, 15 Sep 2022 15:35:06 +0800</pubDate>
+      
+      <guid>https://proaholic.com/2022/09/go_time_usage/</guid>
+      <description>placehold
+content &amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Sqlx Crud</title>
       <link>https://proaholic.com/2022/09/sqlx-crud/</link>
@@ -89,7 +489,7 @@ $generator &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span sty
       <pubDate>Thu, 11 Nov 2021 17:29:16 +0800</pubDate>
       
       <guid>https://proaholic.com/2021/11/my-first-post/</guid>
-      <description>ok ok goood!!!!</description>
+      <description>ok goood!!!!</description>
     </item>
     
   </channel>
